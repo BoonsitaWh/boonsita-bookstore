@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  /* กำหนดค่าสีให้กับชื่อสีที่เราใช้ใน App.jsx */
+  --color-blue-500: #3b82f6;
+  --color-blue-600: #2563eb;
+  --color-gray-50: #f9fafb;
+  --color-gray-100: #f3f4f6;
+  --color-gray-500: #6b7280;
+  --color-gray-800: #1f2937;
+}
